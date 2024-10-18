@@ -77,3 +77,13 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+
+
+# Project Overview
+
+- Implemented screen designs using react native core components and handled styling using Stylesheets and tailwind css.
+- Created Stack navigation to navigate into different screens.
+- Used Redux to handle State management for login and Signup.
+- Integrated Firebase auth for user authentication and storing and fetching trips details in Firestore database.
+- Published the travel expense tracker app to Expo store.
+
